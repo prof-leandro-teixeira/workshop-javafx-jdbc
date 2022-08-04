@@ -11,3 +11,6 @@
 6 - $ git commit -m "Local project created"
 
 7 - $ git push -u origin main
+
+8 - Repetir passos 5, 6 e 7 não sendo mais necessário usar "-u origin main"
+
